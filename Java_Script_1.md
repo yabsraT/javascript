@@ -1,11 +1,11 @@
 # CONCEPT,VARIABLE AND DATATYPE 
 
-## -** Concept of javascript**
+## **Concept of javascript**
  JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.
  JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, 
  comprehensive database-driven apps, and much more!. JavaScript itself is relatively compact, yet very flexible. Developers have written a 
  variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort.
- ## +**JavaScript Variable**
+ ## **JavaScript Variable**
  A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable.
  There are some rules while declaring a JavaScript variable (also known as identifiers).
  Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
@@ -34,7 +34,7 @@ document.write(z);
 </script>  
 
 ```
-## *Javascript Data Types
+## **Javascript Data Types**
 JavaScript provides different data types to hold different types of values. There are two types of data types in JavaScript.
 1. Primitive data type
 2. Non-primitive (reference) data type
